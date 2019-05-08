@@ -1,0 +1,165 @@
+/*-----Global CSS--------*/
+
+section {
+	padding: 0;
+}
+* {
+	font-family: arial;
+}
+
+.btn-blue {
+	background-color: #3f51b5!important;
+}
+.btn-white {
+	color: grey;
+    background-color: #8BC34A;
+    border: none;
+    padding: 12px 15px;
+    border-radius: 5px;
+	background-color: #fff!important;
+	border: 1px solid grey!important;
+	margin-top: 30px;
+}
+
+.bg-blue {
+	background-color: #00968866;
+}
+.bg-yellow {
+	background-color: #ffc10769;
+}
+
+/*--------Navigation---------*/
+.navbar {
+	background-color: #fff;
+}
+.nav-link {
+	color: black!important;
+}
+
+/*--------------section-home---------*/
+.section-home {
+	background: url(../img/banner.jpg)no-repeat;
+	background-size: cover;
+}
+.home-dark {
+	background-color: #00000059!important;
+}
+
+.home-box {
+	text-align: center;
+	color: #fff;
+}
+.home-box h1 {
+	font-size: 50px;
+    margin-top: 160px;
+}
+.home-box h2 {
+	font-size: 30px;
+}
+.home-box button {
+	color: #fff;
+    background-color: #8BC34A;
+    border: none;
+    padding: 12px 15px;
+    border-radius: 3px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+/*-----------section-works--------------*/
+.section-works {	
+	padding: 90px 0;
+}
+.works-box {
+	text-align: center;
+	color: grey;
+}
+.works-box img {
+	display: block;
+    margin: 0 auto;
+}
+.works-box h2 {
+	margin-top: 40px;
+}
+.works-box p {
+	margin-top: 30px;
+}
+
+/*------------section-project-------------------*/
+
+.section-project {
+
+}
+
+.project-box {
+	padding: 40px 0;
+    padding-right: 123px;
+}
+.project-box img {
+	display: block;
+    margin-top: 60px;
+    margin-left: 165px;
+}
+.project-box h3 {
+	padding-bottom: 20px;
+}
+.project-box  p {
+	
+}
+.project-box button {
+	color: #fff;
+    background-color: #8BC34A;
+    border: none;
+    padding: 12px 15px;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+
+/*------------------section-blog-------------------*/
+.section-blog {
+	padding: 80px 0;
+}
+.blog-title {
+	margin-bottom: 20px;
+}
+.blog-title p {
+	padding-right: 100px;
+}
+
+.blog-box {
+	color: grey;
+	position: relative;
+}
+.blog-box h5 {
+	font-size: 18px;
+    font-weight: bold;
+}
+.blog-box p {
+	font-size: 13px;
+}
+.card-p {
+	margin: 27px 0 0 0;
+}
+.card-p span {
+    padding-left: 100px;
+}
+.card-p2 {
+	text-align: right;
+	margin: 0;
+}
+.card-position {
+	position: absolute;
+	top: 160px;
+    right: 15px;
+}
+
+/*-------------------footer----------------------*/
+
+footer {
+
+}
+footer p {
+	text-align: center;
+	font-stretch: 15px
+	color:grey;
+}
